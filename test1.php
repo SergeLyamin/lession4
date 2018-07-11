@@ -54,6 +54,7 @@ foreach ($Animals as $continent => $dwellers) {
 	}
 }
 //задаем массив, с названиями из перемешанных слов
+// привет Тане
  $MixedWordsNames = array();
  
  echo $FirstWords = $SecondWords = [];
